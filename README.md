@@ -6,7 +6,7 @@ This folder contains files for two separate assessments:
 
 ---
 
-## 📊 Power BI Assessment
+## Power BI Assessment
 
 The following files belong to the **Power BI dashboard project** titled  
 **"IMF iData Integration & Visualization"**:
@@ -16,7 +16,7 @@ The following files belong to the **Power BI dashboard project** titled
 
 ---
 
-## 🐍 Python Assessment
+## Python Assessment
 
 These files are part of the **Python data processing and export assessment**:
 
@@ -32,7 +32,7 @@ Hi! This is a Python script I used inside Power BI to clean and analyze a datase
 
 ## 🔧 How to Use This Script in Power BI
 
-### ✅ Step-by-step:
+### Step-by-step:
 
 1. Open Power BI Desktop.
 2. Click **Get Data → Excel** or **CSV**, and load your dataset.
@@ -41,12 +41,12 @@ Hi! This is a Python script I used inside Power BI to clean and analyze a datase
 5. Paste the entire script from `gdp_inflation_analysis_powerbi.py`.
 6. Click OK → then **Close & Apply**.
 
-> ⚠️ Important: You must have Python installed on your computer and set up in Power BI.  
+> Important: You must have Python installed on your computer and set up in Power BI.  
 > Go to **File → Options → Python scripting**, and choose your Python installation (Anaconda or standard Python).
 
 ---
 
-## 🐍 What the Python Script Does
+## What the Python Script Does
 
 Here’s a simple breakdown of what the script is doing:
 
@@ -108,7 +108,7 @@ You can use this table to compare long-term trends and spot high-growth or high-
 
 ---
 
-## ✅ Final Tips
+## Final Tips
 
 - If you can’t see lines in the chart, make sure `GDP_Growth` and `Year` are numeric types.
 - You can add a slicer for `Country` or `Year` to make the visuals more interactive.
