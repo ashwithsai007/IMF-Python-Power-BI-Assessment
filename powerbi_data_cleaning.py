@@ -57,7 +57,7 @@ summary.rename(columns={
     'Inflation': 'Avg_Inflation'
 }, inplace=True)
 
-# ✅ Return df_pivot for visualizations (line + bar charts)
+#  Return df_pivot for visualizations (line + bar charts)
 df_pivot
 import pandas as pd
 
