@@ -1,5 +1,34 @@
 # Systems-Engineer-Position-Assignment
 
+# 📁 Assessment Files – Power BI & Python
+
+This folder contains files for two separate assessments:
+
+---
+
+## 📊 Power BI Assessment
+
+The following files belong to the **Power BI dashboard project** titled  
+**"IMF iData Integration & Visualization"**:
+
+- `IMF iData Integration & Visualization Ashwith.pbix` – Power BI dashboard file  
+- `Documentation - Power BI Dashboards.docx` – Supporting documentation for the dashboard  
+- `README.md` – This summary file
+
+---
+
+## 🐍 Python Assessment
+
+These files are part of the **Python data processing and export assessment**:
+
+- `powerbi_data_cleaning.py` – Python script for transforming economic data  
+- `Sample Output.xlsx` – Excel file generated from Python script
+
+---
+
+Let me know if you need a walkthrough or PDF exports of any visuals.
+
+
 # 📊 GDP & Inflation Analysis with Python in Power BI
 
 Hi! This is a Python script I used inside Power BI to clean and analyze a dataset that has GDP growth and inflation data for different countries from 2015 to 2024. The script helps turn messy economic data into clean visuals and summary tables that are ready to use in dashboards.
