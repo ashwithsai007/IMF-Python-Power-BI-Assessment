@@ -13,7 +13,6 @@ The following files belong to the **Power BI dashboard project** titled
 
 - `IMF iData Integration & Visualization Ashwith.pbix` – Power BI dashboard file  
 - `Documentation - Power BI Dashboards.docx` – Supporting documentation for the dashboard  
-- `README.md` – This summary file
 
 ---
 
@@ -23,13 +22,9 @@ These files are part of the **Python data processing and export assessment**:
 
 - `powerbi_data_cleaning.py` – Python script for transforming economic data  
 - `Sample Output.xlsx` – Excel file generated from Python script
-
+-  `README.md` – This summary file
 ---
 
-Let me know if you need a walkthrough or PDF exports of any visuals.
-
-
-# 📊 GDP & Inflation Analysis with Python in Power BI
 
 Hi! This is a Python script I used inside Power BI to clean and analyze a dataset that has GDP growth and inflation data for different countries from 2015 to 2024. The script helps turn messy economic data into clean visuals and summary tables that are ready to use in dashboards.
 
@@ -113,14 +108,6 @@ You can use this table to compare long-term trends and spot high-growth or high-
 
 ---
 
-## 📁 Files Included
-
-- `gdp_inflation_analysis_powerbi.py` – Python script for cleaning and processing
-- `README.md` – This instruction file
-- *(Optional)* `df_pivot.csv` and `summary.csv` if exported from Power BI
-
----
-
 ## ✅ Final Tips
 
 - If you can’t see lines in the chart, make sure `GDP_Growth` and `Year` are numeric types.
@@ -129,4 +116,4 @@ You can use this table to compare long-term trends and spot high-growth or high-
 
 ---
 
-Thanks for checking this out! Let me know if you want help formatting the dashboard or exporting to Excel with charts 📈📤
+Thanks for checking this out! 📈📤
