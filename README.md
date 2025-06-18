@@ -12,7 +12,7 @@ The following files belong to the **Power BI dashboard project** titled
 **"IMF iData Integration & Visualization"**:
 
 - `IMF iData Integration & Visualization Ashwith.pbix` – Power BI dashboard file  
-- `Documentation - Power BI Dashboards.docx` – Supporting documentation for the dashboard  
+- `Documentation - Power BI Dashboards.docx` – Supporting documentation for the dashboard
 
 ---
 
@@ -20,7 +20,8 @@ The following files belong to the **Power BI dashboard project** titled
 
 These files are part of the **Python data processing and export assessment**:
 
-- `powerbi_data_cleaning.py` – Python script for transforming economic data  
+- `powerbi_data_cleaning.py` – Python script for transforming economic data in POWERBI
+- 'python_automated_code.py' - Fully Automated code with using xlsxwriter
 - `Sample Output.xlsx` – Excel file generated from Python script
 -  `README.md` – This summary file
 ---
