@@ -21,7 +21,7 @@ The following files belong to the **Power BI dashboard project** titled
 These files are part of the **Python data processing and export assessment**:
 
 - `powerbi_data_cleaning.py` – Python script for transforming economic data in POWERBI
-- 'python_automated_code.py' - Fully Automated code with using xlsxwriter
+- `python_automated_code.py` - Fully Automated code with using xlsxwriter
 - `Sample Output.xlsx` – Excel file generated from Python script
 -  `README.md` – This summary file
 ---
@@ -93,9 +93,6 @@ The script also gives you a `summary` table that shows:
 
 | Country       | Avg_GDP_Growth | Avg_Inflation |
 |---------------|----------------|----------------|
-| India         | 6.25           | 5.31           |
-| USA           | 2.45           | 2.88           |
-| Germany       | 1.12           | 2.17           |
 
 You can use this table to compare long-term trends and spot high-growth or high-inflation countries.
 
